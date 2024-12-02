@@ -27,3 +27,5 @@ pip install requests pillow
 ```bash
 python kanye_quote_app.py
 ```
+
+3. **Enjoy!**
